@@ -2,7 +2,7 @@
 
 Convert into Gal Characters!! at current line.
 
-![image](https://github.com/tgfjt/vim-gal-character/blob/master/gal.gif)
+![image](https://raw.githubusercontent.com/tgfjt/vim-gal-character/master/gal.gif)
 
 ## Usage
 
