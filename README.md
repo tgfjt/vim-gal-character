@@ -2,6 +2,8 @@
 
 Convert into Gal Characters!! at current line.
 
+[![Build Status](https://travis-ci.org/tgfjt/vim-gal-character.svg?branch=master)](https://travis-ci.org/tgfjt/vim-gal-character)
+
 ![image](https://raw.githubusercontent.com/tgfjt/vim-gal-character/master/gal.gif)
 
 ## Usage
