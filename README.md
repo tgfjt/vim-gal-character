@@ -4,6 +4,13 @@ Convert into Gal Characters!! at current line.
 
 [![Build Status](https://travis-ci.org/tgfjt/vim-gal-character.svg?branch=master)](https://travis-ci.org/tgfjt/vim-gal-character)
 
+## Inspire from
+
+<blockquote class="twitter-tweet" lang="ja"><p>javascript:K=&#39;あいうえおやゆよわつは。&#39;;k=&#39;ぁぃぅぇぉゃゅょゎっゎo&#39;;with(document.body){for(i in K){innerHTML=innerHTML.replace(RegExp(K[i],&#39;g&#39;),k[i])}}focus();</p>&mdash; ぁゃぴ (@upgrade_ayp) <a href="https://twitter.com/upgrade_ayp/statuses/449036965619310592">2014, 3月 27</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## Image
+
 ![image](https://raw.githubusercontent.com/tgfjt/vim-gal-character/master/gal.gif)
 
 ## Usage
